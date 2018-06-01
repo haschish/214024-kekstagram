@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Игорь Шапилов](https://up.htmlacademy.ru/javascript/14/user/214024).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Рябинин](https://up.htmlacademy.ru/javascript/14/user/63289).
 
 ---
 
