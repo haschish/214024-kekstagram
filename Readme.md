@@ -1,6 +1,6 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Игорь Шапилов](https://up.htmlacademy.ru/javascript/14/user/214024).
+* Студент: [Дмитрий Рябинин](https://htmlacademy.ru/profile/haschish).
 * Наставник: [Дмитрий Рябинин](https://up.htmlacademy.ru/javascript/14/user/63289).
 
 ---
